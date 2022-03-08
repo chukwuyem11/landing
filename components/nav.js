@@ -29,7 +29,7 @@ const Nav = () => {
                 
             })}>
                 <img src="logo.png" css={mq({
-                    width: 80,
+                    width: [60,80,80],
                     marginLeft: [10, 0, 0],
                     height: "auto"
                 })}/>
